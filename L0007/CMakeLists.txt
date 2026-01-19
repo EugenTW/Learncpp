@@ -1,0 +1,1 @@
+add_executable(L0007 main.cpp)
