@@ -4,4 +4,5 @@ project(Learncpp)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_BUILD_TYPE Debug)
 
-add_subdirectory(L007)
+add_subdirectory(L0007)
+add_subdirectory(L0013)
