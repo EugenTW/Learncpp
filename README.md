@@ -1,6 +1,6 @@
 ## Learncpp 
 
-This repository contains my personal learning of the online course “Learn C++ (https://www.learncpp.com/)”.
+This repository contains my personal learning of the online course “Learn C++ (https://www.learncpp.com/) ”.
 
 ### Disclaimer
 All code in this repository was written by me from scratch as part of my learning process.  
