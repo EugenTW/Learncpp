@@ -1,0 +1,1 @@
+add_executable(L0105 main.cpp)
